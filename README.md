@@ -34,9 +34,7 @@ Instead of averaging their coordinates directly, the methods incorporate the cur
     - Computes the three averaging methods.
     - Displays results numerically and graphically.
 
-## 📂 Project Structure
-
-├── functions.jl # Function definitions with derivatives and domains
-├── methods.jl # Averaging methods (tangent, geodesic, projection)
-├── plotting.jl # Plotting utilities
-└── master.jl # Example script running the full pipeline
+## 📖 License
+This project is licensed under the [Unlicense](https://unlicense.org/),  
+which dedicates the work to the public domain.  
+You are free to copy, modify, distribute, and use it for any purpose without restriction.
